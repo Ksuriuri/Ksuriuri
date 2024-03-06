@@ -1,3 +1,5 @@
+<img align='right' src="https://github.com/Ksuriuri/Ksuriuri/assets/00088-2871077607.jpg" height="432">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=2500&color=8C43EA&vCenter=true&width=200&height=40&lines=Hi+Welcome!;I'm+Kusuriuri)](https://git.io/typing-svg)
 
 🌟 **My Skills**  
