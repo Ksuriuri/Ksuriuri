@@ -6,12 +6,19 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=2500&color=8C43EA&vCenter=true&width=200&height=40&lines=Hi+Welcome!;I'm+Kusuriuri)](https://git.io/typing-svg)
 
-🌟 **My Skills**  
-![](https://img.shields.io/badge/-Python-00599C?style=flat-square&logo=Python&logoColor=fff)
-![](https://img.shields.io/badge/-Pytorch-3776AB?style=flat-square&logo=Pytorch&logoColor=fff)
-![](https://img.shields.io/badge/-C++-A8B9CC?style=flat-square&logo=Cplusplus&logoColor=fff)
-![](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=fff)
+## 🌟 My Skills 
+- ![](https://img.shields.io/badge/-Python-00599C?logo=Python&logoColor=fff)
+![](https://img.shields.io/badge/-C++-A8B9CC?logo=Cplusplus)
+![](https://img.shields.io/badge/-Csharp-A8B9CC?logo=Csharp)
+![](https://img.shields.io/badge/-C-A8B9CC?logo=C&logoColor=fff)
+![](https://img.shields.io/badge/-Javascript-A8B9CC?logo=Javascript)
+![](https://img.shields.io/badge/-CSS3-A8B9CC?logo=CSS3)
+![](https://img.shields.io/badge/-HTML5-A8B9CC?logo=html5)
 
-了解更多可以点击下面的链接：
+- ![](https://img.shields.io/badge/-Pytorch-00599C?logo=Pytorch)
+![](https://img.shields.io/badge/-TensorFlow-A8B9CC?logo=Tensorflow)
 
-b站：https://space.bilibili.com/11580026
+## 🌟 More Information
+
+[![](https://img.shields.io/badge/-ORCID-019733?logo=ORCID)](https://orcid.org/0000-0002-1128-3355)
+[![](https://img.shields.io/badge/-bilibili-A8B9CC?logo=bilibili)](https://space.bilibili.com/11580026)
