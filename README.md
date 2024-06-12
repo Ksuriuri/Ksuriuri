@@ -4,7 +4,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Ksuriuri&count_private=true&show_icons=true&bg_color=15,f2f7fd,E0EAFC" />
 </a> -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=2000&color=3fc1c9&vCenter=true&width=200&height=40&lines=Hi+Welcome!;I'm+Kusuriuri)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=2200&color=3fc1c9&vCenter=true&width=200&height=40&lines=Hi+Welcome!;I'm+Kusuriuri)](https://git.io/typing-svg)
 
 ## 🌟 My Skills 
 - ![](https://img.shields.io/badge/-Python-00599C?logo=Python&logoColor=fff)
