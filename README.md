@@ -20,5 +20,5 @@
 
 ## 🌟 More Information
 
-[![](https://img.shields.io/badge/-ORCID-019733?logo=ORCID)](https://orcid.org/0000-0002-1128-3355)
+- [![](https://img.shields.io/badge/-ORCID-019733?logo=ORCID)](https://orcid.org/0000-0002-1128-3355)
 [![](https://img.shields.io/badge/-bilibili-A8B9CC?logo=bilibili)](https://space.bilibili.com/11580026)
