@@ -7,22 +7,8 @@ src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ksuriuri&sho
 />
 
 ## 🌟 My Skills 
-<!-- - ![](https://img.shields.io/badge/-Python-00599C?logo=Python&logoColor=fff)
-![](https://img.shields.io/badge/-C++-A8B9CC?logo=Cplusplus)
-![](https://img.shields.io/badge/-Csharp-A8B9CC?logo=Csharp)
-![](https://img.shields.io/badge/-C-A8B9CC?logo=C&logoColor=fff)
-![](https://img.shields.io/badge/-Javascript-A8B9CC?logo=Javascript)
-![](https://img.shields.io/badge/-CSS3-A8B9CC?logo=CSS3)
-![](https://img.shields.io/badge/-HTML5-A8B9CC?logo=html5)
 
-- ![](https://img.shields.io/badge/-Pytorch-00599C?logo=Pytorch)
-![](https://img.shields.io/badge/-TensorFlow-A8B9CC?logo=Tensorflow) -->
-
-~~Python · C++ · C# · C · JavaScript · CSS3 · HTML5~~
-
-~~PyTorch · TensorFlow~~
-
-> Do what AI can do.
+> Writing this Markdown file by hand.
 
 ## 🌟 More Information
 
