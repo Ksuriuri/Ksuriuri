@@ -2,9 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=2200&color=3fc1c9&vCenter=true&width=200&height=40&lines=Hi+Welcome!;I'm+Kusuriuri)](https://git.io/typing-svg)
 
-<img
-src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ksuriuri&show_icons=true"
-/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=babysor&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 ## 🌟 My Skills 
 
