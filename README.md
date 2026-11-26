@@ -4,7 +4,7 @@
 
 ## 🌟 My Skills 
 
-> Writing this Markdown file by hand.
+> ~~Writing this Markdown file by hand.~~
 
 ## 🌟 More Information
 
